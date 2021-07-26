@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+*/.idea/
+*/target/
+.idea/
+*.bak
+*.tem
+*.temp
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.class
+*.log
+*rebel*.xml
